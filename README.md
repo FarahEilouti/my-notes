@@ -1,4 +1,13 @@
 # Reading-notes
+
+## Our courses with _Code Fellows_ program:
+
+### 1. Code 102 - Intro to Software Development
+### 2. Code 201 - Foundations of Software Development
+### 3. [**Code 301 - Intermediate Software Development**](301-table-of-contents.md)
+### 4. Code 401 - Advanced Software Development
+# ---
+
 # This website is about introducing myself
 ## I am Farah Ailouti, an **AI** graduate from ASAC,
 ### seeking new challenges in the _Code Fellows_ program. I have experince n Java language in addition to python during studying my major. 
@@ -17,10 +26,4 @@
 
 ![coder](./image/BI-scaled.jpg)
 
-## Our courses with _Code Fellows_ program:
-
-### 1. Code 102 - Intro to Software Development
-### 2. Code 201 - Foundations of Software Development
-### 3. **Code 301 - Intermediate Software Development**
-### 4. Code 401 - Advanced Software Development
 
