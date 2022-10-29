@@ -13,4 +13,10 @@ Pandas|[Class 8](class8.md)
 Linked Lists|[Class 9](class9.md)
 Linear Regression |[class 10](class410.md)
 Data Visualization|[class 11](class411.md)
+
+#
+# Another Table for better managing of Readings
+| Title       | Link        |
+| ----------- | ----------- |
 Stack and Queue |[class 12](class412.md)
+Serverless Functions |[class 13](class413.md)
