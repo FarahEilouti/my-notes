@@ -15,5 +15,6 @@ Linear Regression |[class 10](class410.md)
 Data Visualization|[class 11](class411.md)
 Stack and Queue |[class 12](class412.md)
 Serverless Functions |[class 13](class413.md)
-
+Web Scraping |[class 14](class414.md)
+Tree |[class 15](class415.md)
 
