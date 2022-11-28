@@ -20,6 +20,7 @@ Tree |[class 15](class415.md)
 Cryptography |[class 16](class416.md)
 Automation |[class 17](class417.md)
 Django |[class 19](class419.md)
+Django models |[class 20](class420.md)
 
 
 
