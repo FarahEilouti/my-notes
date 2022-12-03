@@ -21,6 +21,8 @@ Cryptography |[class 16](class416.md)
 Automation |[class 17](class417.md)
 Django |[class 19](class419.md)
 Django models |[class 20](class420.md)
+Django CRUD |[class 22](class422.md)
+
 
 
 
