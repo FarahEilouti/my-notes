@@ -23,6 +23,7 @@ Django |[class 19](class419.md)
 Django models |[class 20](class420.md)
 Django CRUD |[class 22](class422.md)
 Django Custom user |[class 23](class423.md)
+Hashtables |[class 24](class424.md)
 
 
 
