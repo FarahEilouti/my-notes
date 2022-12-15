@@ -1,0 +1,5 @@
+# class 27
+## _Graphs_
+#
+#### Graphs are networks consisting of nodes connected by edges or arcs. In directed graphs, the connections between nodes have a direction, and are called arcs; in undirected graphs, the connections have no direction and are called edges. We mainly discuss directed graphs. Algorithms in graphs include finding a path between two nodes, finding the shortest path between two nodes, determining cycles in the graph (a cycle is a non-empty path from a node to itself), finding a path that reaches all nodes (the famous "traveling salesman problem"), and so on. Sometimes the nodes or arcs of a graph have weights or costs associated with them, and we are interested in finding the cheapest path.
+#### There's considerable literature on graph algorithms, which are an important part of discrete mathematics. Graphs also have much practical use in computer algorithms. Obvious examples can be found in the management of networks, but examples abound in many other areas. For instance, caller-callee relationships in a computer program can be seen as a graph (where cycles indicate recursion, and unreachable nodes represent dead code).
