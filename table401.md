@@ -28,4 +28,4 @@ Django REST + Docker |[class 25](class425.md)
 Permissions & Postgresql |[class 26](class426.md)
 Graphs |[class 27](class427.md)
 Authentication & Production Server |[class 28](class428.md)
-
+API deployment |[class 29](class429.md)

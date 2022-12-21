@@ -1,4 +1,4 @@
-# class 27
+# class 28
 ## _Authentication & Production Server_
 #
 #### In general, authentication servers and production servers are used to perform different functions in a computer system. Authentication servers are responsible for verifying the identity of users, while production servers are responsible for hosting and running applications or websites in a live environment.
