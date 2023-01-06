@@ -1,0 +1,6 @@
+# class 32
+## _next.js and Tailwind.css_
+#
+#### Next.js is a framework for building server-rendered or statically exported React applications. It is designed to make the process of building web applications with React easier by providing features such as automatic code splitting, optimized performance, and easy deployment to production. Next.js is built on top of Node.js, and allows you to use the latest JavaScript features, including async/await and the latest version of ECMAScript. It is also fully compatible with the latest version of React, including Hooks.
+
+#### Tailwind Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is designed to provide developers with a set of low-level utility classes that they can use to build their own custom design system, rather than being a pre-designed UI kit that you have to work within. This makes it a great fit for teams that want to have a high level of control over the design of their applications, and who don't want to be limited by the design choices made by the creators of a UI library. One of the main features of Tailwind CSS is its use of utility classes, which are short, descriptive class names that apply a specific style to an element. 
